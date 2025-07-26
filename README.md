@@ -1,8 +1,10 @@
-# 👨‍💻 Akshat | Aspiring Finance & Tech Pro
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshatrix404/Akshatrix404/main/assets/banner.png" width="100%"/>
+</p>
 
-Welcome to my GitHub! I'm a passionate B.Tech student driven to master data structures, full-stack development, finance, and AI/ML.
-
----
+<h1 align="center">
+  👨‍💻 <span style="color:#00F7FF">Akshat</span> | <i>Aspiring Finance & Tech Pro</i>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Finance+%2B+Tech+Pro;Mastering+DSA%2C+AI%2C+Finance%2C+Web+Dev;Focused+on+LLMs+%26+Markets;Always+Learning+%26+Building" />
@@ -12,125 +14,127 @@ Welcome to my GitHub! I'm a passionate B.Tech student driven to master data stru
 
 ## 🚀 Summary
 
+<table><tr><td valign="top" width="50%">
+
 💡 Building the future with tech + finance  
 📊 Interested in LLMs, stock trading, algorithmic finance  
 🎯 Currently learning: DSA | Python | Neural Networks | Web Dev
+
+</td><td valign="top" width="50%">
+
+### 🔗 LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/akshatkhndelwal/)  
+_“Let’s connect and grow together — follow my journey in tech and finance!”_
+
+</td></tr></table>
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,nodejs,tailwind,git,github,vscode,figma&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,nodejs,tailwind,git,github,vscode,figma&perline=8" alt="Skills" />
 </p>
 
-### 🔢 Programming & DSA
-- 🐍 Python (NumPy, Pandas, Matplotlib)
-- 💻 C / C++ for Algorithms & Data Structures
-- 📘 Java, JavaScript for backend & frontend logic
-- 📀 Currently mastering: Recursion, DP, Trees
+### 🧠 Skill Mastery Levels
 
-### 🌐 Web Development
-- 💡 HTML5, CSS3, JavaScript
-- ⚛️ ReactJS + TailwindCSS
-- 🌐 APIs, DOM, Responsive Design
-
-### ⚙️ Tools & Workflow
-- 🔧 Git & GitHub (Branching, PRs, Workflows)
-- 🛠️ VSCode, Postman, Figma
-- 🧪 CI/CD Basics, GitHub Actions
-
-### 🧠 Soft Skills
-- 🎯 Time Management, Problem Solving
-- 💬 Communication & Collaboration
-- 🚀 Rapid Learning & Adaptability
+| Skill             | Level         | Progress |
+|------------------|---------------|----------|
+| 🐍 Python         | Advanced       | 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 100% |
+| 💻 C / C++        | Proficient     | 🔹🔹🔹🔹🔹🔹🔹🔹🔹⚪ 90% |
+| 🧫 DSA            | Intermediate   | 🔹🔹🔹🔹🔹🔹🔹🔹⚪⚪ 80% |
+| 🌐 HTML/CSS       | Advanced       | 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 100% |
+| ⚛️ ReactJS        | Learning       | 🔹🔹🔹🔹🔹🔹⚪⚪⚪⚪ 60% |
+| 🔧 Git/GitHub     | Advanced       | 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 100% |
+| 🧪 CI/CD          | Beginner       | 🔹🔹🔹⚪⚪⚪⚪⚪⚪⚪ 30% |
+| 🗖️ JavaScript     | Intermediate   | 🔹🔹🔹🔹🔹🔹🔹⚪⚪⚪ 70% |
+| 🎨 TailwindCSS    | Intermediate   | 🔹🔹🔹🔹🔹🔹🔹⚪⚪⚪ 70% |
 
 ---
 
-<details>
-  <summary>📈 🧠 Click to view my Skill Mastery Timeline (Mermaid Chart)</summary>
+## 🧐 Experience & 📂 Projects
 
-```mermaid
-gantt
-    title Tech Skill Mastery Timeline
-    dateFormat  YYYY-MM-DD
-    section Programming
-    Python        :done,    des1, 2023-01-01, 90d
-    C / C++       :active,  des2, 2024-01-01, 180d
-    JavaScript    :         des3, after des2, 60d
+<table><tr><td valign="top" width="50%">
 
-    section Web Dev
-    HTML/CSS      :done,    des4, 2023-07-01, 60d
-    ReactJS       :active,  des5, 2024-06-01, 90d
+### 💼 Experience
 
-    section Tools
-    Git/GitHub    :done,    des6, 2023-04-01, 60d
-    CI/CD Basics  :         des7, after des6, 60d
-```
+- Intern - Finance & Automation | Genpact | May 2025 – Jul 2025
+- Senior Core - AIML Domain | Team Prometheus | Oct 2024 – May 2025
+- Core Member - R&D | CSED | Mar 2025 – Present
+- Core Member - PR & Outreach | CSED | Mar 2025 – Present
+- Core Member - Management | TAG | Feb 2025 – Present
 
-</details>
+</td><td valign="top" width="50%">
 
----
+### 📂 Projects
 
-## 💼 Experience
+- 💰 **Personal Finance Tracker** — Budget & expense system (_Python, Pandas, Excel_)
+- 🌐 **Portfolio Website** — React + Tailwind personal site
+- 📈 **Stock Trading Dashboard** — Simulating real-time Indian stock trades *(WIP)*
+- 🧠 **LLM Intent Router** — Research project using Transformers
 
-| Role | Organization | Duration |
-|------|--------------|----------|
-| Intern - Finance & Automation | Genpact | May 2025 – Jul 2025 |
-| Senior Core - AIML Domain | Team Prometheus | Oct 2024 – May 2025 |
-| Core Committee Member - R&D Department | CSED | Mar 2025 – Present |
-| Core Committee Member - PR & Outreach Department | CSED | Mar 2025 – Present |
-| Core Committee Member - Management Department | TAG | Feb 2025 – Present |
-
----
-
-## 📂 Projects
-
-- **💰 Personal Finance Tracker**  
-  A smart budgeting and expense visualization system.  
-  _Python, Pandas, Excel, Matplotlib_
-
-- **🌐 Portfolio Website**  
-  My personal website built with React and TailwindCSS.
-
-- **📈 Stock Trading Dashboard** *(In Progress)*  
-  Real-time stock tracker and trade simulation using Indian APIs.
-
-- **🧠 LLM-Based Intent Routing in Networking**  
-  A research-based AI project using Transformer models.
+</td></tr></table>
 
 ---
 
 ## 📊 Coding Platform Progress
 
-### 🔗 Profiles
+<table>
+<tr><td valign="top">
 
-#### 🟢 GeeksforGeeks  
+### 🟢 GeeksforGeeks
+
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-14A800?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/akshatrix404/practice/)  
-> _“Solving DSA problems regularly on GFG to sharpen problem-solving skills!”_
+_“Solving DSA problems regularly on GFG to sharpen problem-solving skills!”_
 
-#### 🟢 HackerRank  
+### 🔴 AtCoder
+
+[![AtCoder](https://img.shields.io/badge/AtCoder-Profile-red?style=flat&logo=codeforces&logoColor=white)](https://atcoder.jp/users/Akshatkhndelwal)  
+_“Trying out Japanese-style contest formats and problem solving!”_
+
+</td><td valign="top">
+
+### 🔵 Codeforces
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Akshatkhndelwal)  
+_“Competing in global contests and learning from top-tier logic challenges.”_
+
+### 🟢 HackerRank
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Akshatrix404)  
-> _“Check out my 5⭐️ badges and 30+ solved challenges on HackerRank.”_
+_“Check out my 5⭐️ badges and 30+ solved challenges on HackerRank.”_
 
-#### 🔵 CodeChef  
+### 🟤 CodeChef
+
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/akshatrix404)  
-![CodeChef Rating](https://cp-logo.vercel.app/codechef/akshatrix404?logo=true)
+_“Exploring contests & practicing structured problems on CodeChef.”_
+
+</td></tr>
+</table>
 
 ---
 
-### 📈 Stats & Charts
+### 📈 Stats & GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshatrix404&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshatrix404&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatrix404&layout=compact&theme=vision-friendly-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshatrix404&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshatrix404&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatrix404&layout=compact&theme=vision-friendly-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshatrix404&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
-## 🔵 LinkedIn
+## 🎓 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/akshatkhndelwal/)  
-> _“Let’s connect and grow together — follow my journey in tech and finance!”_
+- ☕ Learn JAVA Programming — Beginner to Master (Udemy)  
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/Akshatrix404/Akshatrix404/main/assets/java_certificate.jpg" width="500"/>
+  </p>
 
 ---
 
