@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshatrix404/Akshatrix404/main/assets/banner.png" width="100%"/>
-</p>
-
 <h1 align="center">
-  👨‍💻 <span style="color:#00F7FF">Akshat</span> | <i>Aspiring Finance & Tech Pro</i>
+  👨‍💻 <span style="color:#00F7FF">Akshat Khandelwal</span> | <i>Aspiring Finance & Tech Pro</i>
 </h1>
 
 <p align="center">
@@ -31,13 +27,37 @@ _“Let’s connect and grow together — follow my journey in tech and finance!
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,nodejs,tailwind,git,github,vscode,figma&perline=8" alt="Skills" />
-</p>
 
-### 🧠 Skill Mastery Levels
+  ### 🔢 Programming & DSA
+  - 🐍 Python (NumPy, Pandas, Matplotlib)  
+  - 💻 C / C++ for Algorithms & Data Structures  
+  - 📘 Java, JavaScript for backend & frontend logic  
+  - 📀 Currently mastering: Recursion, DP, Trees
+
+---
+  ### ⚙️ Tools & Workflow
+  - 🔧 Git & GitHub (Branching, PRs, Workflows)  
+  - 🛠️ VSCode, Postman, Figma  
+  - 🧪 CI/CD Basics, GitHub Actions
+---
+
+
+  ### 🌐 Web Development
+  - 💡 HTML5, CSS3, JavaScript  
+  - ⚛️ ReactJS + TailwindCSS  
+  - 🌐 APIs, DOM, Responsive Design
+---
+  ### 🧠 Soft Skills
+  - 🎯 Time Management, Problem Solving  
+  - 💬 Communication & Collaboration  
+  - 🚀 Rapid Learning & Adaptability
+
+
+---
+
+## 🧠 Skill Mastery Levels
 
 | Skill             | Level         | Progress |
 |------------------|---------------|----------|
@@ -53,28 +73,49 @@ _“Let’s connect and grow together — follow my journey in tech and finance!
 
 ---
 
-## 🧐 Experience & 📂 Projects
 
-<table><tr><td valign="top" width="50%">
+## 💼 Experience
 
-### 💼 Experience
+| Role | Organization | Duration | Description of Work | Skills Used |
+|------|--------------|----------|----------------------|-------------|
+| Finance Gen AI Intern | Genpact | May 2025 – Jul 2025 | Built GenAI tools like Skill Analyzer and Invoice Analyzer using LangChain, Flask, FastAPI, Excel, and Streamlit. Used GPT-4 to automate financial workflows. | Python, GenAI, FastAPI, Streamlit |
+| Senior Core - AIML Domain | Team Prometheus | Oct 2024 – May 2025 | Led 25+ interviews, task delegation, improved AI workflows using GitHub and RL. | Workflow Optimization, Leadership, Recruitment |
+| Core Committee - R&D | CSED | Mar 2025 – Present | Researched market trends to inform club strategy. | Market Research, Business Analysis |
+| Core Committee - PR & Outreach | CSED | Mar 2025 – Present | Promoted events via social media, strengthened outreach. | PR, Social Media Marketing |
+| Core Committee - Management | TAG | Feb 2025 – Present | Organized events and ensured communication. | Event Management |
+| Campus Ambassador | GirlScript Summer of Code | Jun 2025 – Present | Contributed to open source by fixing bugs, writing docs, and collaborating with maintainers. | GitHub, Open Source Collaboration |
+| Junior Core - AIML | Team Prometheus | Oct 2024 – Feb 2025 | Built AI logic with Python, Java, and GitHub; organized workshops. | Python, RL, GitHub |
+| Indigo Squad Member | Mood Indigo IIT Bombay | Dec 2024 – Jan 2025 | Participated in organizing cultural festival events. | Teamwork, Event Planning |
+| Founder | Akky Gamerz YouTube | May 2023 – Dec 2023 | Built a gaming channel from scratch, designed thumbnails, edited videos. | Video Editing, Branding |
 
-- Intern - Finance & Automation | Genpact | May 2025 – Jul 2025
-- Senior Core - AIML Domain | Team Prometheus | Oct 2024 – May 2025
-- Core Member - R&D | CSED | Mar 2025 – Present
-- Core Member - PR & Outreach | CSED | Mar 2025 – Present
-- Core Member - Management | TAG | Feb 2025 – Present
+---
 
-</td><td valign="top" width="50%">
+## 🧠 Project Portfolio
 
-### 📂 Projects
+### 💼 Ongoing Proejcts
 
-- 💰 **Personal Finance Tracker** — Budget & expense system (_Python, Pandas, Excel_)
-- 🌐 **Portfolio Website** — React + Tailwind personal site
-- 📈 **Stock Trading Dashboard** — Simulating real-time Indian stock trades *(WIP)*
-- 🧠 **LLM Intent Router** — Research project using Transformers
+- ### 🤖 Empowering Everyday Finance
+**Tech Stack:** Llama 3, Ollama, FastAPI, PostgreSQL, Next.js, Tailwind, Supabase, LangChain  
+Building an LLM-based multi-agent AI finance system with budgeting, tax, investment, and education agents.
 
-</td></tr></table>
+---
+
+### 🛠️ Practical Engineering Projects
+
+
+### 🧮 Intelligent Path Navigation System
+**Tech Stack:** Arduino Uno, IR Sensors, C++, PID Control  
+Built a robot that follows paths using sensors and adjusts speed using real-time PID control logic.
+
+### 🌐  PixelPersona | Personal Portfolio Web App
+**Tech Stack:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
+Created a modern and responsive portfolio to showcase skills and projects with a clean UI.
+
+### ⚛️ StateLogic | Verilog FSM Controller
+**Tech Stack:** Verilog HDL, Digital Logic Design  
+Developed and tested a FSM controller circuit with accurate timing and deterministic transitions.
+
+
 
 ---
 
@@ -132,9 +173,7 @@ _“Exploring contests & practicing structured problems on CodeChef.”_
 ## 🎓 Certifications
 
 - ☕ Learn JAVA Programming — Beginner to Master (Udemy)  
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/Akshatrix404/Akshatrix404/main/assets/java_certificate.jpg" width="500"/>
-  </p>
+  
 
 ---
 
