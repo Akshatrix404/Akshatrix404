@@ -46,7 +46,7 @@ Beyond that, I've led AI/ML operations, conducted **25+ technical interviews**, 
 
 > *Real problems. Real scale. Built for India.*
 >
-> 📌 *Screenshots are placeholders — will be replaced with live site previews once deployed.*
+> 📌 *Screenshots are placeholders — will be replaced with live previews once deployed. &nbsp;[**→ View interactive project showcase page**](https://akshatrix404.github.io/projects)*
 
 <br/>
 
