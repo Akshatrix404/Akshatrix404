@@ -28,8 +28,8 @@ Beyond that, I've led AI/ML operations, conducted **25+ technical interviews**, 
 
 
 🎓  VIT Vellore · BTech CSE · Aug 2023 – Jun 2027 · CGPA: 8.45
-📍  Jaipur, Rajasthan, India
-🔭  Open to: AI/ML Engineering · GenAI Roles · Full-Stack AI Projects
+<br/>📍  Jaipur, Rajasthan, India
+<br/>🔭  Open to: AI/ML Engineering · GenAI Roles · Full-Stack AI Projects
 
 
 <br clear="right"/>
