@@ -64,7 +64,7 @@ AI resume parsing & scoring via Gemini · Full pipeline from applied → offered
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Demo-555?style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
@@ -91,7 +91,7 @@ GST-ready invoices · Inventory + low-stock alerts · Shareable order links · W
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Demo-555?style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
@@ -127,7 +127,7 @@ Voice → SOAP notes → drug interaction flagging → RAG over ICMR/WHO guideli
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Demo-555?style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
@@ -154,7 +154,7 @@ Adaptive skill-gap quiz → competency gap mapping → week-by-week personalised
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Demo-555?style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
@@ -189,7 +189,7 @@ Auto-SOS via shake / 5× power · silent evidence upload · route deviation aler
 ![Google Maps](https://img.shields.io/badge/Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Demo-555?style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
@@ -215,7 +215,7 @@ Photo → on-device TFLite disease detection → local language treatment → da
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Demo-555?style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
@@ -249,7 +249,7 @@ BM25 + semantic hybrid search with AI query intelligence · Real-time IoT fleet 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Demo-555?style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404/Hybrid-Lexical-and-Semantic-Matching)
 
 </div>
