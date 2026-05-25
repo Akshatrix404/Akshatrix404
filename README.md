@@ -4,10 +4,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatkhndelwal01/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akshatrix404)
-[![Portfolio](https://img.shields.io/badge/Portfolio-64ffda?style=flat-square&logo=vercel&logoColor=black)](https://github.com/Akshatrix404/Personal-Portfolio)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ak.professional47@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/akshatkhndelwal01/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logoColor=white)](https://github.com/Akshatrix404)
+[![Portfolio](https://img.shields.io/badge/Portfolio-64ffda?style=flat-square&logoColor=black)](https://github.com/Akshatrix404/Personal-Portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoColor=white)](mailto:ak.professional47@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Akshatrix404&style=flat-square&color=64ffda&label=Profile+Views)](https://github.com/Akshatrix404)
 
 </div>
