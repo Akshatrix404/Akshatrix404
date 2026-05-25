@@ -337,37 +337,11 @@ Promoted to Senior Core. Conducted 25+ recruitment interviews, led task delegati
 <td width="15%" align="center" valign="top"><b>Oct 2024<br/>– Feb 2025</b></td>
 <td valign="top">
 
-**⚡ Junior Core, AIML — Team Prometheus VIT** · Vellore
+**⚡ Junior Core, AIML — Team Prometheus VIT** · On-site, Vellore
 
 Rewrote AI codebase using Python, Java, and reinforcement learning. Researched RoboSoccer technologies and organized technical workshops.
 
 `Python` `Java` `RL` `GitHub`
-
-</td>
-</tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr>
-<td width="15%" align="center" valign="top"><b>Mar 2025<br/>– Present</b></td>
-<td valign="top">
-
-**📊 Core Committee (R&D + PR) — CSED** · VIT
-
-Researched market trends for club strategy · Promoted events via social media and outreach.
-
-`Market Research` `Business Analysis` `PR` `Social Media`
-
-</td>
-</tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr>
-<td width="15%" align="center" valign="top"><b>Jun 2025<br/>– Present</b></td>
-<td valign="top">
-
-**🌍 Campus Ambassador — GirlScript Summer of Code**
-
-Contributing to open source — bug fixes, documentation, collaborating with maintainers.
-
-`Open Source` `GitHub` `Collaboration`
 
 </td>
 </tr>
@@ -383,10 +357,6 @@ Contributing to open source — bug fixes, documentation, collaborating with mai
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatrix404&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0&langs_count=8" width="50%" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshatrix404&theme=react-dark&hide_border=true&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda" width="100%" />
 
 </div>
@@ -399,16 +369,6 @@ Contributing to open source — bug fixes, documentation, collaborating with mai
 <tr>
 <td width="50%" valign="top">
 
-**🥇 Honors & Awards**
-
-| Award | Issuer | Year |
-|-------|--------|------|
-| 🏆 **Build & Beyond Hackathon — 1st Place** | The Whitehats Club, VIT | Apr 2026 |
-| 🥉 **IAAC Bronze Medalist** | International Astronomy & Astrophysics Competition | Jul 2022 |
-
-</td>
-<td width="50%" valign="top">
-
 **📜 Certifications**
 
 | Certificate | Issuer | Year |
@@ -418,6 +378,16 @@ Contributing to open source — bug fixes, documentation, collaborating with mai
 | ☕ **Java Data Structures & Algorithms** | Udemy | Dec 2025 |
 | 🌐 **Full-Stack Web Development Bootcamp** | Udemy | Dec 2025 |
 | ☕ **Java Programming: Beginner to Master** | Udemy | Dec 2024 |
+
+</td>
+<td width="50%" valign="top">
+
+**🥇 Honors & Awards**
+
+| Award | Issuer | Year |
+|-------|--------|------|
+| 🏆 **Build & Beyond Hackathon — 1st Place** | The Whitehats Club, VIT | Apr 2026 |
+| 🥉 **IAAC Bronze Medalist** | International Astronomy & Astrophysics Competition | Jul 2022 |
 
 </td>
 </tr>
@@ -438,10 +408,6 @@ Contributing to open source — bug fixes, documentation, collaborating with mai
 ---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatkhndelwal01/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshatrix404)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=100&section=footer&fontColor=64ffda" />
 
