@@ -38,12 +38,6 @@ Beyond that, I've led AI/ML operations, conducted **25+ technical interviews**, 
 
 ## 🚀 Projects
 
-> *Real problems. Real scale. Built for India.*
->
-> 📌 *Screenshots are placeholders — will be replaced with live site previews once deployed.*
-
-<br/>
-
 <!-- ========== ROW 1 ========== -->
 <table width="100%">
 <tr>
@@ -58,7 +52,6 @@ Beyond that, I've led AI/ML operations, conducted **25+ technical interviews**, 
 
 **🔷 HireFlow — AI-Powered ATS**
 
-[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
 [![Full Stack](https://img.shields.io/badge/Full_Stack-5e60ce?style=flat-square)](#)
 
 AI resume parsing & scoring via Gemini · Full pipeline from applied → offered · Analytics dashboards · Calendar scheduling · Built for 63M Indian SMEs who can't afford Workday.
@@ -71,8 +64,8 @@ AI resume parsing & scoring via Gemini · Full pipeline from applied → offered
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
 </td>
@@ -87,7 +80,6 @@ AI resume parsing & scoring via Gemini · Full pipeline from applied → offered
 
 **🔶 LocalMart — Kirana Store OS**
 
-[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
 [![Full Stack](https://img.shields.io/badge/Full_Stack-5e60ce?style=flat-square)](#)
 
 GST-ready invoices · Inventory + low-stock alerts · Shareable order links · WhatsApp notifications · Built for 12M kirana stores losing 15–20% revenue to stockouts.
@@ -99,8 +91,8 @@ GST-ready invoices · Inventory + low-stock alerts · Shareable order links · W
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
 </td>
@@ -124,7 +116,6 @@ GST-ready invoices · Inventory + low-stock alerts · Shareable order links · W
 
 **🩺 MedScribe — Clinical Note AI**
 
-[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
 [![AI / ML](https://img.shields.io/badge/AI_%2F_ML-48bfe3?style=flat-square)](#)
 
 Voice → SOAP notes → drug interaction flagging → RAG over ICMR/WHO guidelines → patient summary. AI assists, doctor decides. For clinics Nuance DAX ignores.
@@ -136,8 +127,8 @@ Voice → SOAP notes → drug interaction flagging → RAG over ICMR/WHO guideli
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
 </td>
@@ -152,7 +143,6 @@ Voice → SOAP notes → drug interaction flagging → RAG over ICMR/WHO guideli
 
 **🗺️ SkillMap — Career Switch Engine**
 
-[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
 [![AI / ML](https://img.shields.io/badge/AI_%2F_ML-48bfe3?style=flat-square)](#)
 
 Adaptive skill-gap quiz → competency gap mapping → week-by-week personalised learning plan → auto-adapts as you progress. For career switchers with no roadmap.
@@ -164,8 +154,8 @@ Adaptive skill-gap quiz → competency gap mapping → week-by-week personalised
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
 </td>
@@ -189,7 +179,6 @@ Adaptive skill-gap quiz → competency gap mapping → week-by-week personalised
 
 **🛡️ SafeRoute — Women's Safety App**
 
-[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](#)
 
 Auto-SOS via shake / 5× power · silent evidence upload · route deviation alerts · community unsafe-area heatmap · fake call. Offline-first. Built for 88 crimes/hour India.
@@ -200,8 +189,8 @@ Auto-SOS via shake / 5× power · silent evidence upload · route deviation aler
 ![Google Maps](https://img.shields.io/badge/Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
 </td>
@@ -216,7 +205,6 @@ Auto-SOS via shake / 5× power · silent evidence upload · route deviation aler
 
 **🌾 FarmAssist — Crop Intelligence**
 
-[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](#)
 
 Photo → on-device TFLite disease detection → local language treatment → daily mandi prices → weather advisory → Hindi/Rajasthani voice. Offline-first for 140M farmers.
@@ -227,8 +215,8 @@ Photo → on-device TFLite disease detection → local language treatment → da
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
 </div>
 </td>
@@ -251,7 +239,6 @@ Photo → on-device TFLite disease detection → local language treatment → da
 
 **🔍 SearchLens — Hybrid Lexical & Semantic Matching**
 
-[![Shipped](https://img.shields.io/badge/✅_Shipped-64ffda?style=flat-square&labelColor=0d1117)](#)
 [![AI / ML](https://img.shields.io/badge/AI_%2F_ML-48bfe3?style=flat-square)](#)
 
 BM25 + semantic hybrid search with AI query intelligence · Real-time IoT fleet dashboard with SSE streaming · ML anomaly detection · Gemini-powered ATS resume analyser with section rewriting · JWT-secured on AWS EC2, S3, SNS, IAM.
@@ -262,8 +249,8 @@ BM25 + semantic hybrid search with AI query intelligence · Real-time IoT fleet 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404/Hybrid-Lexical-and-Semantic-Matching)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404/Hybrid-Lexical-and-Semantic-Matching)
 
 </div>
 </td>
