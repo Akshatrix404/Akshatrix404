@@ -12,15 +12,9 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=AI%2FML+Intern+%40+PrAIs+IT+Solutions;Ex+Finance+GenAI+Intern+%40+Genpact;Final+Year+CS+%40+VIT+%7C+CGPA+8.45;Building+AI+systems+India+actually+needs;1925+LinkedIn+followers+%7C+Open+to+Work" />
-</div>
-
 ---
 
 ## 👨‍💻 About Me
-
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Akshatrix404&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0&ring_color=64ffda&include_all_commits=true" />
 
 > *"I don't just learn about AI and Finance — I build with it, and I document everything."*
 
@@ -32,11 +26,11 @@ Beyond that, I've led AI/ML operations, conducted **25+ technical interviews**, 
 
 **Currently:** AI/ML Intern @ PrAIs IT Solutions · Building AI × Finance content daily on LinkedIn
 
-```
+
 🎓  VIT Vellore · BTech CSE · Aug 2023 – Jun 2027 · CGPA: 8.45
 📍  Jaipur, Rajasthan, India
 🔭  Open to: AI/ML Engineering · GenAI Roles · Full-Stack AI Projects
-```
+
 
 <br clear="right"/>
 
