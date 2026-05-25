@@ -45,116 +45,238 @@ Beyond that, I've led AI/ML operations, conducted **25+ technical interviews**, 
 ## 🚀 Projects
 
 > *Real problems. Real scale. Built for India.*
+>
+> 📌 *Screenshots are placeholders — will be replaced with live site previews once deployed.*
 
-### 🌐 Full Stack Web
+<br/>
 
+<!-- ========== ROW 1 ========== -->
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top">
+<div align="center">
+
+<!-- CARD: HireFlow -->
+<a href="https://github.com/Akshatrix404">
+  <img src="https://placehold.co/600x300/0d1117/64ffda?text=HireFlow+—+Coming+Soon&font=montserrat" width="100%" style="border-radius:12px;" />
+</a>
 
 **🔷 HireFlow — AI-Powered ATS**
 
-[![Status](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![Full Stack](https://img.shields.io/badge/Full_Stack-5e60ce?style=flat-square)](#)
 
-> 63M Indian SMEs manage hiring via Excel + WhatsApp. Workday costs ₹15L/year.
+AI resume parsing & scoring via Gemini · Full pipeline from applied → offered · Analytics dashboards · Calendar scheduling · Built for 63M Indian SMEs who can't afford Workday.
 
-Full ATS pipeline — AI resume parsing & scoring via Gemini, pipeline stages (applied → screened → interviewed → offered), interviewer feedback, analytics, calendar scheduling.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-`React.js` `TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` `AWS` `Gemini AI`
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
+</div>
 </td>
+
 <td width="50%" valign="top">
+<div align="center">
+
+<!-- CARD: LocalMart -->
+<a href="https://github.com/Akshatrix404">
+  <img src="https://placehold.co/600x300/0d1117/f7c948?text=LocalMart+—+Coming+Soon&font=montserrat" width="100%" style="border-radius:12px;" />
+</a>
 
 **🔶 LocalMart — Kirana Store OS**
 
-[![Status](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![Full Stack](https://img.shields.io/badge/Full_Stack-5e60ce?style=flat-square)](#)
 
-> 12M kirana stores run on mental math. 15–20% revenue lost to stockouts.
+GST-ready invoices · Inventory + low-stock alerts · Shareable order links · WhatsApp notifications · Built for 12M kirana stores losing 15–20% revenue to stockouts.
 
-Mobile-first — inventory management, GST-ready invoices, low-stock alerts, shareable order links, WhatsApp notifications. No app needed for customers.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-`React.js` `Node.js` `PostgreSQL` `Redis` `AWS S3` `WhatsApp API` `Docker`
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
+</div>
 </td>
+
 </tr>
 </table>
 
-### 🤖 AI / ML
+<br/>
 
+<!-- ========== ROW 2 ========== -->
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top">
+<div align="center">
+
+<!-- CARD: MedScribe -->
+<a href="https://github.com/Akshatrix404">
+  <img src="https://placehold.co/600x300/0d1117/48bfe3?text=MedScribe+—+Coming+Soon&font=montserrat" width="100%" style="border-radius:12px;" />
+</a>
 
 **🩺 MedScribe — Clinical Note AI**
 
-[![Status](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![AI / ML](https://img.shields.io/badge/AI_%2F_ML-48bfe3?style=flat-square)](#)
 
-> Doctors spend 40% of consult time on paperwork. AI tools like Nuance DAX are priced for US hospitals only.
+Voice → SOAP notes → drug interaction flagging → RAG over ICMR/WHO guidelines → patient summary. AI assists, doctor decides. For clinics Nuance DAX ignores.
 
-Speak → Whisper transcribes → SOAP format → drug interaction flagging → RAG over ICMR/WHO guidelines → patient summary. **AI assists. Doctor decides.**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-`Python` `FastAPI` `LangGraph` `RAG` `ChromaDB` `Whisper` `Gemini` `AWS`
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
+</div>
 </td>
+
 <td width="50%" valign="top">
+<div align="center">
+
+<!-- CARD: SkillMap -->
+<a href="https://github.com/Akshatrix404">
+  <img src="https://placehold.co/600x300/0d1117/a8b2d8?text=SkillMap+—+Coming+Soon&font=montserrat" width="100%" style="border-radius:12px;" />
+</a>
 
 **🗺️ SkillMap — Career Switch Engine**
 
-[![Status](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![AI / ML](https://img.shields.io/badge/AI_%2F_ML-48bfe3?style=flat-square)](#)
 
-> Millions want to switch careers but have no personalised roadmap.
+Adaptive skill-gap quiz → competency gap mapping → week-by-week personalised learning plan → auto-adapts as you progress. For career switchers with no roadmap.
 
-Adaptive skill-gap quiz → competency framework mapping → week-by-week plan with curated free resources → tracks & auto-adapts plan dynamically as you learn.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-`Python` `FastAPI` `LangGraph` `RAG` `PostgreSQL` `Redis` `React.js` `AWS`
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
+</div>
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
 
-**🔍 Hybrid Lexical & Semantic Matching — SearchLens** [![Shipped](https://img.shields.io/badge/Shipped-64ffda?style=flat-square&labelColor=0d1117)](#) &nbsp; [→ GitHub](https://github.com/Akshatrix404/Hybrid-Lexical-and-Semantic-Matching)
-
-BM25 + semantic hybrid search · AI query intelligence · Real-time IoT fleet dashboard (SSE) · ML anomaly detection · Gemini ATS resume analyser with section rewriting · JWT-secured on AWS EC2, S3, SNS, IAM
-
-`Gemini 2.5` `NLP` `AWS` `SSE` `TypeScript` `Node.js` `React`
-
-</td>
 </tr>
 </table>
 
-### 📱 Android
+<br/>
 
+<!-- ========== ROW 3 ========== -->
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top">
+<div align="center">
+
+<!-- CARD: SafeRoute -->
+<a href="https://github.com/Akshatrix404">
+  <img src="https://placehold.co/600x300/0d1117/ff6b6b?text=SafeRoute+—+Coming+Soon&font=montserrat" width="100%" style="border-radius:12px;" />
+</a>
 
 **🛡️ SafeRoute — Women's Safety App**
 
-[![Status](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](#)
 
-> 88 crimes against women every hour in India.
+Auto-SOS via shake / 5× power · silent evidence upload · route deviation alerts · community unsafe-area heatmap · fake call. Offline-first. Built for 88 crimes/hour India.
 
-Auto-SOS (shake / 5× power) · route deviation alerts · silent cloud upload · community unsafe-area heatmap · fake call. **Fully offline-capable.**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-`Kotlin` `Jetpack Compose` `Room DB` `WorkManager` `Google Maps SDK` `Firebase FCM` `AWS S3`
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
+</div>
 </td>
+
 <td width="50%" valign="top">
+<div align="center">
+
+<!-- CARD: FarmAssist -->
+<a href="https://github.com/Akshatrix404">
+  <img src="https://placehold.co/600x300/0d1117/52b788?text=FarmAssist+—+Coming+Soon&font=montserrat" width="100%" style="border-radius:12px;" />
+</a>
 
 **🌾 FarmAssist — Crop Intelligence**
 
-[![Status](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![In Progress](https://img.shields.io/badge/In_Progress-f7c948?style=flat-square)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](#)
 
-> 140M farming households. 30–40% crop loss from undetected disease.
+Photo → on-device TFLite disease detection → local language treatment → daily mandi prices → weather advisory → Hindi/Rajasthani voice. Offline-first for 140M farmers.
 
-Photo → on-device TFLite detection → treatment in local language → mandi prices → weather advisory → voice in **Hindi/Rajasthani**. **Offline-first.**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-`Kotlin` `Jetpack Compose` `TFLite` `CameraX` `PyTorch` `FastAPI` `AWS` `Google Translate`
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404)
 
+</div>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ========== ROW 4 — Full width SearchLens ========== -->
+<table width="100%">
+<tr>
+<td valign="top">
+<div align="center">
+
+<!-- CARD: SearchLens -->
+<a href="https://github.com/Akshatrix404/Hybrid-Lexical-and-Semantic-Matching">
+  <img src="https://placehold.co/1200x300/0d1117/64ffda?text=SearchLens+—+Hybrid+Lexical+%26+Semantic+Matching&font=montserrat" width="100%" style="border-radius:12px;" />
+</a>
+
+**🔍 SearchLens — Hybrid Lexical & Semantic Matching**
+
+[![Shipped](https://img.shields.io/badge/✅_Shipped-64ffda?style=flat-square&labelColor=0d1117)](#)
+[![AI / ML](https://img.shields.io/badge/AI_%2F_ML-48bfe3?style=flat-square)](#)
+
+BM25 + semantic hybrid search with AI query intelligence · Real-time IoT fleet dashboard with SSE streaming · ML anomaly detection · Gemini-powered ATS resume analyser with section rewriting · JWT-secured on AWS EC2, S3, SNS, IAM.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-555?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Akshatrix404/Hybrid-Lexical-and-Semantic-Matching)
+
+</div>
 </td>
 </tr>
 </table>
+
+<br/>
 
 ### ⚙️ Hardware & Systems
 
